@@ -1,0 +1,534 @@
+{
+  "policy": "affordable",
+  "games": 50,
+  "extraArgs": [
+    "--on-unsupported",
+    "pass"
+  ],
+  "finishedAt": "2026-10-16T03:22:37.174490+00:00",
+  "wins": 0,
+  "losses": 50,
+  "unfinished": 0,
+  "unfinishedReasons": {},
+  "winrate": 0.0,
+  "winrateCI95": [
+    0.0,
+    0.0714
+  ],
+  "winrateBasis": 50,
+  "meanFinalTurn": 9.28,
+  "meanPlayerHealth": -1.38,
+  "meanOpponentHealth": 33.4,
+  "totalDecisions": 4928,
+  "meanDecisionMs": 23.4,
+  "degradedPrompts": {
+    "phase ORDERTRIGGERS": 76,
+    "popup NEWOPT": 17
+  },
+  "actionsFilteredAsUnaffordable": 1546,
+  "abilityActivationsHeldBack": 1201,
+  "cancelsUsed": 0,
+  "elapsedSeconds": 133.9,
+  "perGame": [
+    {
+      "gameName": "97",
+      "seed": 1,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "-2",
+      "opponentHealth": "31",
+      "decisions": 100
+    },
+    {
+      "gameName": "98",
+      "seed": 2,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-1",
+      "opponentHealth": "38",
+      "decisions": 90
+    },
+    {
+      "gameName": "99",
+      "seed": 3,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "14",
+      "playerHealth": "-5",
+      "opponentHealth": "32",
+      "decisions": 139
+    },
+    {
+      "gameName": "100",
+      "seed": 4,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "0",
+      "opponentHealth": "36",
+      "decisions": 131
+    },
+    {
+      "gameName": "101",
+      "seed": 5,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "-2",
+      "opponentHealth": "30",
+      "decisions": 82
+    },
+    {
+      "gameName": "102",
+      "seed": 6,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "11",
+      "playerHealth": "-1",
+      "opponentHealth": "38",
+      "decisions": 119
+    },
+    {
+      "gameName": "103",
+      "seed": 7,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-2",
+      "opponentHealth": "35",
+      "decisions": 95
+    },
+    {
+      "gameName": "104",
+      "seed": 8,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "4",
+      "playerHealth": "0",
+      "opponentHealth": "36",
+      "decisions": 52
+    },
+    {
+      "gameName": "105",
+      "seed": 9,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-2",
+      "opponentHealth": "28",
+      "decisions": 92
+    },
+    {
+      "gameName": "106",
+      "seed": 10,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "12",
+      "playerHealth": "-1",
+      "opponentHealth": "33",
+      "decisions": 122
+    },
+    {
+      "gameName": "107",
+      "seed": 11,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "7",
+      "playerHealth": "0",
+      "opponentHealth": "37",
+      "decisions": 73
+    },
+    {
+      "gameName": "108",
+      "seed": 12,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "14",
+      "playerHealth": "-1",
+      "opponentHealth": "31",
+      "decisions": 139
+    },
+    {
+      "gameName": "109",
+      "seed": 13,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "-1",
+      "opponentHealth": "34",
+      "decisions": 95
+    },
+    {
+      "gameName": "110",
+      "seed": 14,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "-1",
+      "opponentHealth": "36",
+      "decisions": 89
+    },
+    {
+      "gameName": "111",
+      "seed": 15,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-2",
+      "opponentHealth": "34",
+      "decisions": 102
+    },
+    {
+      "gameName": "113",
+      "seed": 16,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "7",
+      "playerHealth": "-1",
+      "opponentHealth": "38",
+      "decisions": 78
+    },
+    {
+      "gameName": "114",
+      "seed": 17,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "10",
+      "playerHealth": "0",
+      "opponentHealth": "31",
+      "decisions": 103
+    },
+    {
+      "gameName": "115",
+      "seed": 18,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "13",
+      "playerHealth": "-2",
+      "opponentHealth": "34",
+      "decisions": 114
+    },
+    {
+      "gameName": "116",
+      "seed": 19,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "15",
+      "playerHealth": "-3",
+      "opponentHealth": "34",
+      "decisions": 128
+    },
+    {
+      "gameName": "117",
+      "seed": 20,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "10",
+      "playerHealth": "-2",
+      "opponentHealth": "35",
+      "decisions": 116
+    },
+    {
+      "gameName": "118",
+      "seed": 21,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "7",
+      "playerHealth": "-1",
+      "opponentHealth": "34",
+      "decisions": 84
+    },
+    {
+      "gameName": "119",
+      "seed": 22,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "10",
+      "playerHealth": "-4",
+      "opponentHealth": "33",
+      "decisions": 106
+    },
+    {
+      "gameName": "120",
+      "seed": 23,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "16",
+      "playerHealth": "-2",
+      "opponentHealth": "16",
+      "decisions": 162
+    },
+    {
+      "gameName": "121",
+      "seed": 24,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "5",
+      "playerHealth": "0",
+      "opponentHealth": "37",
+      "decisions": 61
+    },
+    {
+      "gameName": "122",
+      "seed": 25,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "0",
+      "opponentHealth": "40",
+      "decisions": 76
+    },
+    {
+      "gameName": "123",
+      "seed": 26,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "7",
+      "playerHealth": "-1",
+      "opponentHealth": "37",
+      "decisions": 67
+    },
+    {
+      "gameName": "124",
+      "seed": 27,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "0",
+      "opponentHealth": "33",
+      "decisions": 104
+    },
+    {
+      "gameName": "125",
+      "seed": 28,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "7",
+      "playerHealth": "-1",
+      "opponentHealth": "31",
+      "decisions": 69
+    },
+    {
+      "gameName": "126",
+      "seed": 29,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "7",
+      "playerHealth": "-1",
+      "opponentHealth": "40",
+      "decisions": 75
+    },
+    {
+      "gameName": "127",
+      "seed": 30,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "0",
+      "opponentHealth": "31",
+      "decisions": 101
+    },
+    {
+      "gameName": "128",
+      "seed": 31,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-1",
+      "opponentHealth": "34",
+      "decisions": 95
+    },
+    {
+      "gameName": "129",
+      "seed": 32,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-3",
+      "opponentHealth": "35",
+      "decisions": 107
+    },
+    {
+      "gameName": "130",
+      "seed": 33,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "0",
+      "opponentHealth": "30",
+      "decisions": 91
+    },
+    {
+      "gameName": "131",
+      "seed": 34,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "5",
+      "playerHealth": "0",
+      "opponentHealth": "35",
+      "decisions": 52
+    },
+    {
+      "gameName": "132",
+      "seed": 35,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "10",
+      "playerHealth": "0",
+      "opponentHealth": "32",
+      "decisions": 115
+    },
+    {
+      "gameName": "133",
+      "seed": 36,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "-2",
+      "opponentHealth": "31",
+      "decisions": 81
+    },
+    {
+      "gameName": "134",
+      "seed": 37,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "12",
+      "playerHealth": "-2",
+      "opponentHealth": "25",
+      "decisions": 120
+    },
+    {
+      "gameName": "135",
+      "seed": 38,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "14",
+      "playerHealth": "-1",
+      "opponentHealth": "35",
+      "decisions": 118
+    },
+    {
+      "gameName": "136",
+      "seed": 39,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "-2",
+      "opponentHealth": "35",
+      "decisions": 77
+    },
+    {
+      "gameName": "137",
+      "seed": 40,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "14",
+      "playerHealth": "-1",
+      "opponentHealth": "35",
+      "decisions": 142
+    },
+    {
+      "gameName": "138",
+      "seed": 41,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "14",
+      "playerHealth": "-3",
+      "opponentHealth": "22",
+      "decisions": 144
+    },
+    {
+      "gameName": "139",
+      "seed": 42,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-4",
+      "opponentHealth": "30",
+      "decisions": 110
+    },
+    {
+      "gameName": "140",
+      "seed": 43,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "6",
+      "playerHealth": "0",
+      "opponentHealth": "35",
+      "decisions": 77
+    },
+    {
+      "gameName": "141",
+      "seed": 44,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "0",
+      "opponentHealth": "39",
+      "decisions": 89
+    },
+    {
+      "gameName": "142",
+      "seed": 45,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "11",
+      "playerHealth": "-2",
+      "opponentHealth": "30",
+      "decisions": 119
+    },
+    {
+      "gameName": "143",
+      "seed": 46,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "8",
+      "playerHealth": "0",
+      "opponentHealth": "31",
+      "decisions": 84
+    },
+    {
+      "gameName": "144",
+      "seed": 47,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-1",
+      "opponentHealth": "30",
+      "decisions": 94
+    },
+    {
+      "gameName": "145",
+      "seed": 48,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "10",
+      "playerHealth": "-2",
+      "opponentHealth": "39",
+      "decisions": 94
+    },
+    {
+      "gameName": "146",
+      "seed": 49,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "9",
+      "playerHealth": "-4",
+      "opponentHealth": "34",
+      "decisions": 93
+    },
+    {
+      "gameName": "147",
+      "seed": 50,
+      "outcome": "loss",
+      "reason": "",
+      "finalTurn": "6",
+      "playerHealth": "-2",
+      "opponentHealth": "40",
+      "decisions": 62
+    }
+  ]
+}
