@@ -502,7 +502,10 @@ class RulesPolicy:
                 "card": card,
                 "power": self.power(card),
                 "cost": self.cost(card),
-                "pitch": self.pitch_value(card),
+                # Only a card in hand is part of the pitch pool, so only playing
+                # one takes its pitch away. An attack from arsenal, banish or the
+                # graveyard costs resources without removing any.
+                "pitch": self.pitch_value(card) if action["mode"] == 27 else 0,
                 "goAgain": self.has_go_again(card),
             })
         if not attacks:
